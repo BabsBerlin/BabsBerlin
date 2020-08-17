@@ -1,5 +1,5 @@
 Welcome to my GitHub! 
-I am currently working to fill my account with some projects, so please come back to check it out later.
+I am currently working on projects to fill my account, so please come back to check it out later.
 
 <!--
 
