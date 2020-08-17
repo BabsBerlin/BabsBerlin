@@ -1,6 +1,10 @@
-### Hi there 👋
+Welcome to my GitHub! 
+I am currently working to fill my account with some projects, so please come back to check it out later.
 
 <!--
+
+### Hi there 👋
+
 **BabsBerlin/BabsBerlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
