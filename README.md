@@ -1,6 +1,10 @@
 Welcome to my GitHub account!
 
-I am currently working on projects to fill my account, so please come back soon to check out more work.
+I am working on projects more to fill my account, so please come back every now and then to check out more work.
+
+What I’m currently learning: Data Engineering Nanodegree at Udacity. Super cool! ✨ 
+
+Happy Coding! 🚀
 
 <!--
 
