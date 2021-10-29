@@ -1,7 +1,7 @@
 Welcome to my GitHub account! ✨
 
-I do not have any major project here yet, just some small ones from stuff I did during my studies.
-Currently I am doing a Nanodegree in **Data Engineering** at Udacity, learning about super cool stuff like:
+I do not have any major projects here yet, just some small ones from stuff I did during my studies.
+Currently I am doing a Nanodegree in **Data Engineering** at Udacity, learning about super cool things like:
 - Data Modeling ✔︎
 - Data Warehouses
 - Data Lakes
