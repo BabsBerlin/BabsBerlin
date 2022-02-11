@@ -4,7 +4,7 @@ I do not have any major projects here yet, just some small ones from stuff I did
 Currently I am doing a Nanodegree in **Data Engineering** at Udacity, learning about super cool things like:
 - Data Modeling ✔︎
 - Data Warehouses ✔︎
-- Data Lakes
+- Data Lakes ✔︎
 - Data Pipelines
 
 Happy Coding! 🚀
