@@ -5,7 +5,7 @@ Currently I am doing a Nanodegree in **Data Engineering** at Udacity, learning a
 - Data Modeling ✔︎
 - Data Warehouses ✔︎
 - Data Lakes and Spark ✔︎
-- Data Pipelines
+- Data Pipelines ✔︎
 
 Happy Coding! 🚀
 
